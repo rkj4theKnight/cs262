@@ -1,0 +1,26 @@
+Exercise 1.2
+
+Ryan Johnson
+
+1. Demographics
+	a. What is your class level? SENIOR
+	b. What is your major? DC
+	c. What letter grades did you get in CS 112, 212, and/or IS 271? C
+	
+2. Technical
+	a. Have you worked on any of the following things:
+		- Java applications? YES, ALTHOUGH IT HAS BEEN A FEW YEARS
+		- Portable device applications (Android/iOS)? NO
+		- GPS-based systems: NO
+		- Database driven websites or services: YES, I BUILD AND UPDATE CALVIN'S WEBSITE
+	b. Have you used any of the following tools?
+		- Slack? NO
+		- Trello: YES, ON A DAILY BASIS FOR WORK
+		- Git and/or GitHub? NO
+	c. Do you have any Android devices and, if so, what sort of devices are they and what version of Android do they run? SAMSUNG GALAXY S6 EDGE; ANDROID 7.0
+	d. What project or projects would you like to work on? (SEE IDEAS.TXT THAT I SUBMITTED)
+3. Personality
+	a. What is your big-five personality type? I DON'T REMEMBER OFF THE TOP OF MY HEAD, ALTHOUGH ONCE I GET BACK TO MY DESKTOP AT HOME, I WILL EMAIL YOU THE RESULT.
+	b. Is there anyone you'd really like (or not like!) to work with? I KNOW RYAN HOLWERDA, ANDREW THOMAS, JASON KLASSEN, AND CHRIS PUNT PRETTY WELL, SO I WOULDN'T MIND WORKING WITH ANY OF THEM.
+4. Is there anything else you’d like us to know about you before assigning you to a project team? I WORK ON WEBPAGES ON A DAILY BASIS, SO I AM VERY FAMILIAR WITH HTML AND CSS. I'M NOT QUITE AS
+   FAMILIAR WITH JAVA. SO I THINK I'D WORK BEST WITH THE DESIGN SIDE OF THE APP, RATHER THAN BACK-END PROGRAMMING. WHICH, IF YOU NOTICE MY PREVIOUS GRADES, YOU'LL SEE I DIDN'T DO SO WELL :\

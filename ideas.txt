@@ -1,0 +1,16 @@
+Exercise 1.1
+
+Ryan Holwerda and Ryan Johnson
+
+
+Identify two possible team projects
+	1. Interesting and tractable
+		- An app mainly to show a map of Calvin. The difference with this map is that, when clicking on a building, instead of showing the basic information of the building (address, etc.),
+		  it would show the individual classrooms within the building, similar to how the emergency evacuation map shows. A search bar would be implemented, as well as the student's
+		  class schedule, so they can see exactly which room they need to go to for each class. The level for each building is interchangeable. Department/faculty offices and bathrooms, will
+		  also be shown. If time permits, an option to show quickest routes between classes will be added, as well as pull in events from Calvin's calender and events listings and show them
+		  when clicking on a building where those events would happen.
+	2. Whacky and sweet
+		- A Calvin app where students would login, and their personal information would be easily accessible. For example, they may quickly view their AER and see which classes they have
+		  taken and which classes they need to take. Their class schedule would show, with push notifications showing on their phone a few minutes before their class starts. They would have
+		  the option to pay any fines they might have.
