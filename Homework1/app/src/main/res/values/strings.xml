@@ -1,0 +1,7 @@
+<resources>
+    <string name="TextView01">Value 1:</string>
+    <string name="app_name">Homework1</string>
+    <string name="TextView02">Value 2:</string>
+    <string name="operator">Operator:</string>
+    <string name="Button01">Calculate</string>
+</resources>
