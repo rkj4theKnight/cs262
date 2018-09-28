@@ -25,15 +25,15 @@ public class MainActivity extends Activity implements OnItemSelectedListener{
     String[] operators={"+","-","*","/"};
     // selected operator
     String selected;
-    // use double to add decimals to answer
-    double value1, value2, answer;
+    // create variables for calculations (used integers because the instructions said to)
+    int value1, value2, answer;
 
     private OnClickListener myClickListener = new OnClickListener()
     {
         public void onClick(View v) {
             // convert user-inputted numbers to a string
-            value1=Double.parseDouble(num1.getText().toString());
-            value2=Double.parseDouble(num2.getText().toString());
+            value1=Integer.parseInt(num1.getText().toString());
+            value2=Integer.parseInt(num2.getText().toString());
             // if addition is selected
             if (selected.equals("+")){answer=value1+value2; result.setText(String.valueOf(answer));}
             // or if subtraction is selected
@@ -61,9 +61,9 @@ public class MainActivity extends Activity implements OnItemSelectedListener{
         calculate.setOnClickListener(myClickListener);
 
         // get the user-inputted numbers
-        num1 = (EditText)findViewById(R.id.EditText01);
+        num1 = (EditText)findViewById(R.id.value1);
         num1.setText("");
-        num2 = (EditText)findViewById(R.id.EditText02);
+        num2 = (EditText)findViewById(R.id.value2);
         num2.setText("");
 
         // select the operation
