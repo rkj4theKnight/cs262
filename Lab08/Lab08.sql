@@ -1,0 +1,23 @@
+--8.1a
+--SELECT * FROM Game ORDER BY time DESC;
+--8.1b
+--SELECT * FROM Game WHERE time > (NOW() - interval '1 week');
+--8.1c
+--SELECT * FROM Winner WHERE name IS NOT NULL;
+--8.1d
+--SELECT winnerID FROM WinnerGame WHERE score > 2000;
+--8.1e
+--SELECT * FROM Winner WHERE emailaddress LIKE '%gmail%';
+
+--8.2a
+--SELECT score FROM WinnerGame 
+--JOIN Winner ON WinnerGame.winnerID=Winner.id 
+--WHERE Winner.id=2 ORDER BY DESC;
+--8.2b
+--SELECT Winner.name FROM Winner JOIN WinnerGame ON WinnerGame.winnerID=Winner.id
+--JOIN Game ON WinnerGame.gameID=Game.id WHERE Game.time='2006-06-28 13:20:00' 
+--ORDER BY Winner.name DESC LIMIT 1;
+--8.2c
+--In the same table, the clause compares two players different ID numbers, but the same name.
+--8.2d
+--It might be helpful if you have a table of people with different employment titles, but want to see who reports to who within the same table.
