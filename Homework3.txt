@@ -1,0 +1,28 @@
+Ryan Johnson
+
+Homework 3
+
+1a. Yes, because we implement things like GET, PUT, POST, and DELETE in the service. This is especially important for RESTful services because HTTP methods are some of the key aspects of REST.
+
+1b. Much of our SQL is idempotent. We use things to check if exists before inserting, which is idempotent. We did not have an endpoint that was nullipotent.
+
+1c. "With the object paradigm you traverse objects via their relationships whereas with the relational paradigm you join the data rows of tables.
+This fundamental difference results in a non-ideal combination of object and relational technologies" (http://www.agiledata.org/essays/impedanceMismatch.html)
+
+1d. I don't think so.
+
+2a. It seems alright. There are quiete a few Trello cards that indicate activity from some people, but their "faces" haven't been added to the card, so there's no way to see at
+a glance who's actually working on what.
+
+2b. The SQL schema model is seemed pretty simple. The employee can have many projects, and each project can have many times, so the employee is capable of having multiple timers at once.
+What I'm uncertain of is if all of these times are being stored; and, if so, if/how/when they would be deleted. I would also like to know if the saved times are automatically saved with 
+a certain file format, to make it easier to distinguish when people worked on projects, when they did it, and for how long.
+
+2c. There has been quite a few commits (over 100 now), which makes me think that they push small changes very frequently. The app runs, and their database sort of works, but they aren't wired together yet.
+
+2d. The presentation was alright. The overall design of the app was simple but good. But the multiple timer features all seemed to work well, which is good.
+I still think that they should see if they can get the timers to continue, even if the app closes. That's one nice feature of OS default clock apps.
+Their presentation seemed well rehearsed overall. I'd rank it in the top half of the class.
+
+3. I can't find the original Excel file for reviewing my teammates, but most of what I wrote down from Homework1 remains the same. What's new is that Jason, Ryan H. and Alex have been doing a bit less recently,
+but that will change since all of them will be involved with working on the database.
