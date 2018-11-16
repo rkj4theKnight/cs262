@@ -1,0 +1,14 @@
+Ryan Johnson
+
+Lab 11
+
+11.1
+ - I'm not going to make many changes to my personal code, since I think there is enough documentation to understand what's going on in the code.
+ - I still couldn't get Homework2 working properly, if I remember correctly, but since I still haven't been able to figure ou thow to fix it, I
+   haven't bother trying.
+
+11.2
+ - One thing that isn't working properly with our app is the automatic counter. When we scan a QR code, it will automatically add 1 to our counter,
+   which displays on the leaderboard at the moment. The problem is that when we click on the Leaderboard button on our menu, it shows 0 as the score.
+   To fix this, we plan on removing the hard-coded value of 0 on the leaderboard page, and add a default starting value of 0 to the counter.
+ 
