@@ -1,0 +1,11 @@
+Ryan Johnson
+CS-262
+Professor Vander Linden
+November 30, 2018
+Homework 4 (Review of Team A)
+
+2a. Team A's user test was very well laid out. There was a piece of paper with a list of instructions to do, demonstrating the different capabilities of the app.
+    For the most part, I knew exactly what to do based on the instructions listed on the piece of paper. The app included a menu with clearly-labeled pages, and 
+    each of the pages did exactly what I expected. Other than a couple of glitches and mediocre design choices, the app was simple but effective.
+2b. It looks like there's been enough code, although nobody has pushed to the master branch for about a week. My guess is that they didn't want to make changes
+    until the usability tests had been completed. 
