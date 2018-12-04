@@ -1,0 +1,10 @@
+Ryan Johnson
+CS-262
+Professor Vander Linden
+November 30, 2018
+Lab 13
+
+Exercise 13.1
+User story: As a student who goes to Calvin, I would like to keep track of my team's score.
+
+Instructions: Use the leaderboard tab to track your team's points as you find new locations. you can also see how many points you have relative to other teams.
