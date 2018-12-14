@@ -1,0 +1,38 @@
+Ryan Johnson
+CS262
+Professor VanderLinden
+December 13, 2019
+Homework 5 (Review of Team B)
+
+2a. For Alex, he didn't really have any opportunities to do much for the first half of the semester, since his strength is in working with databases, and not with Java
+    or design. That being said, he ended up being a miracle-worker, as he was up until 2 a.m. the morning of the presentation trying to get the database working. As we
+    proved in our demonstration, it did. I really appreciate that he was willing to only sleep 3 or 4 hours that night in order to get our app working properly.
+
+    For Jason, he helped occasionally with the Java code at first, then he also helped out quite a bit with the database alongside Alex. He, too, ended up being a miracle-
+    worker, also staying up until 2 a.m. with Alex, and also only getting 3 or 4 hours of sleep that night to make sure our app worked the way it should.
+
+    Ryan Holwerda did quite a bit of the non-code-related work, like setting up the diagrams and user stories at the beginning of the semester. He also helped out a bit
+    with the database, but not nearly as much as Alex or Jason.
+
+    Nate did quite a bit of Java coding with our app. He (along with Jason on occasion) was responsible for getting all of the pages  to navigate properly, along with
+    getting the Task List page to show the images and have the images be clickable and show an expanded version.
+
+    Finally, for myself, I admit that I didn't do as much work as I had hoped. Granted, my skills are with design and general concepts instead of Java coding and database
+    work. So I spent the first half of the semester figuring out the design of our app, figuring out how to get the QR code scanner to show up in our app, and help figure
+    out the best way to display things in our app. I also created the leaderboard page (apart from having the values pull in from the database). I think that if we had more
+    time to work on our app to include more features, I would get more involved with touching up the Task List and Leaderboard pages so they look complete. I do wish that I
+    had more opportunities to help out, but I figured that I shouldn't try and get involved with trying to help with something I have very little knowledge in.
+
+2b. Alex did a lot of work with the database and getting it set up.
+
+    Jason also worked quite a bit on the database, as well as a bit of the Java code in the app itself.
+
+    Ryan Holwerda created the non-code0related stuff... like the user stories, the diagrams, etc. He also did a bit of database stuff, but not as much as Alex or Jason.
+
+    Nate did  a majority of the Java hard code.
+
+    I did a small amount of Java code, created a new theme (which we applied to all of our pages), figured out the QR scanner, created the leaderboard, and helped with
+    general problem-solving.
+
+2c. I feel like Nate did 30%, Alex did 20%, Jason did 20%, Ryan H. did 15%, and I did 15%.
+    

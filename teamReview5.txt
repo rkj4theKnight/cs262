@@ -1,0 +1,17 @@
+Ryan Johnson
+CS262
+Professor VanderLinden
+December 13, 2019
+Homework 5 (Review of Team A)
+
+1a. Based on what I saw on GitHub, my stakeholder team (Team A) definitely show an appropriate amount of activity throught the semester. There seemed to be commits on
+    basically every day over the past month or so, which goes to show that they were continuously fixing bugs and making updates. This is also consistent with what I
+    saw in the past.
+1b. I thought their final presentation was alright. Personally, compared to their first presentation, the final presentation didn't seem much more impressive. That is,
+    apart from the fact that they can login to the same account in multiple different devices. Other than that, there wasn't much different.
+1c. Overall, it is evident that the main functions of their app work properly, even the ability to login to multiple devices with the same data. I like the simplicity of
+    the app in general, especially the ablity to easily manually add or remove projects and times. I appreciated that they trusted the opinions and suggestions due to the
+    user testing, and the improvements were evident. I also really liked the ability to login to multiple devices; truth be told, I don't necessarily think it was necessary,
+    but it's a cool feature nonetheless. However, I think that the design was a bit too bland. While the entire app used a consistent design, the design itself was a bit too
+    bland. It looked like it used the default Android Studio fonts, menu structures, and color schemes. I understand that they wanted to create an app that didn't have too
+    many distractions, but I still think you can redesign an app to make it look much better without distracting the user.
